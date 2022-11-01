@@ -12,25 +12,16 @@ export default function Home() {
         <h1 export default function examplePage() {
     return (
       <div className='container'>
-        <title>Website</title>
+        <title> About Me </title>
         <link rel='icon' href='/favicon.ico' />
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hello, Im Ron Burgundy?</h1>
+            <h1 className='title'>Hello, I am Darwin Hanson?</h1>
           </div>
-          <img
-            className='pic'
-            src='https://pbs.twimg.com/profile_images/415961110635110400/xPO9YqTC.jpeg'
-            alt='ron burgundy'
-          />
-
           <p className='description'>
-            I dont know if you know this, but... I am kind of a big deal. I have
-            many leather bound books and my apartment smells of rich mahogany. I
-            am also a five-time local Emmy award-winning anchor for the KVWN Channel
-            4 News in San Diego. When im not reading the news, you will find me
-            playing the jazz flute around the city at different establishments.
+            Hi, I am Darwin Hanson. I am a first year Computer Science student. I like running and eating grilled cheese. 
+            I also really like napping and watching Gilmore Girls. I don't know what else to write. 
           </p>
 
           <a className='button' href='/'>
