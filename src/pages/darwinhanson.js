@@ -17,7 +17,7 @@ export default function Home() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hello, I am Darwin Hanson?</h1>
+            <h1 className='title'>Hello, I am Darwin Hanson</h1>
           </div>
           <p className='description'>
             Hi, I am Darwin Hanson. I am a first year Computer Science student. I like running and eating grilled cheese. 
