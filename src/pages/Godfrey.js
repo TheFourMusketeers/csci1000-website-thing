@@ -4,22 +4,13 @@ export default function examplePage() {
         <title>Website</title>
         <link rel='icon' href='/favicon.ico' />
 
-        <main>
+        <main style="background-color:#dfeee0">
           <div className='underline'>
-            <h1 className='title'>Hello, Im Ron Burgundy?</h1>
+            <h1 className='title'>Hello, I'm Isabelle Godfrey.</h1>
           </div>
-          <img
-            className='pic'
-            src='https://pbs.twimg.com/profile_images/415961110635110400/xPO9YqTC.jpeg'
-            alt='ron burgundy'
-          />
 
           <p className='description'>
-            I dont know if you know this, but... I am kind of a big deal. I have
-            many leather bound books and my apartment smells of rich mahogany. I
-            am also a five-time local Emmy award-winning anchor for the KVWN Channel
-            4 News in San Diego. When im not reading the news, you will find me
-            playing the jazz flute around the city at different establishments.
+            I am a freshman in Computer Science CU Boulder, and am thinking of majoring in Applied Mathematics and getting a minor in something biology related. I am unsure of what I want to pursue in the field of computer science, but as of now I am interested in cybersecurity, graphic design, and machine learning. Outside of school, I like to go on hikes and play volleyball (both indoors and on beach), and I enjoy many forms of caffeine and baking. 
           </p>
 
           <a className='button' href='/'>
@@ -62,11 +53,6 @@ export default function examplePage() {
           .description {
             line-height: 1.5;
             font-size: 1.5rem;
-          }
-
-          .pic {
-            height: 450px;
-            width: 450px;
           }
 
           .button {
